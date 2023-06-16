@@ -8,4 +8,10 @@ Setup
       <Subscriptions {...{ id }} />
     ))}```
 
-4. Note: this setup may not be apt for load test - as there is a UI dependancy 
+4. Note: this setup may not be apt for load test - as there is a UI dependancy
+
+
+How to Run 
+
+npm install
+npm start 
